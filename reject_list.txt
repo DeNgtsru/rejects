@@ -1,3 +1,5 @@
+katuni4ka/tiny-random-codegen2
+tiiuae/falcon-mamba-7b
 aisingapore/llama3-8b-cpt-sea-lionv2.1-instruct
 Artples/L-MChat-7b
 codellama/CodeLlama-7b-hf
@@ -58,6 +60,7 @@ unsloth/Qwen2.5-Math-1.5B-Instruct
 unsloth/Qwen2.5-Math-7B-Instruct
 unsloth/Qwen2-0.5B
 unsloth/Qwen2-1.5B
+unsloth/Qwen2-1.5B-Instruct
 unsloth/Qwen2-7B
 unsloth/Qwen2-7B-Instruct
 unsloth/SmolLM-1.7B
