@@ -18,6 +18,7 @@ NousResearch/Nous-Hermes-2-SOLAR-10.7B
 NousResearch/Nous-Hermes-llama-2-7b
 NousResearch/Yarn-Solar-10b-32k
 NousResearch/Yarn-Solar-10b-64k
+oopsung/llama2-7b-koNqa-test-v1
 oopsung/llama2-7b-n-ox-test-v1
 OpenBuddy/openbuddy-llama2-13b-v8.1-fp16
 princeton-nlp/Sheared-LLaMA-1.3B
