@@ -68,6 +68,7 @@ unsloth/SmolLM-1.7B
 unsloth/SmolLM-1.7B-Instruct
 unsloth/SmolLM-135M
 unsloth/SmolLM-135M-Instruct
+unsloth/SmolLM2-1.7B
 unsloth/SmolLM2-135M
 unsloth/SmolLM2-360M
 unsloth/SmolLM2-360M-Instruct
