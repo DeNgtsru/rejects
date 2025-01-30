@@ -9,6 +9,7 @@ defog/sqlcoder-7b-2
 dunzhang/stella_en_1.5B_v5
 echarlaix/tiny-random-mistral
 fxmarty/tiny-random-GemmaForCausalLM
+hf-tiny-model-private/tiny-random-OPTForCausalLM
 huggyllama/llama-7b
 JackFram/llama-68m
 jingyeom/seal3.1.6n_7b
