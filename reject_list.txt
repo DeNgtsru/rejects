@@ -11,6 +11,7 @@ echarlaix/tiny-random-mistral
 Eurdem/Defne_llama3_2x8B
 fxmarty/tiny-random-GemmaForCausalLM
 hf-tiny-model-private/tiny-random-OPTForCausalLM
+HuggingFaceH4/zephyr-7b-beta
 huggyllama/llama-7b
 Intel/neural-chat-7b-v3-3
 JackFram/llama-68m
