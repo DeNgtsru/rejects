@@ -26,7 +26,6 @@ princeton-nlp/Sheared-LLaMA-1.3B
 teknium/OpenHermes-2.5-Mistral-7B
 The-matt/llama2_ko-7b_distinctive-snowflake-182_1060
 TitanML/tiny-mixtral
-tlphams/gollm-12.8b-instruct-v2.3
 unsloth/codellama-7b
 unsloth/Hermes-3-Llama-3.1-8B
 unsloth/llama-2-7b
@@ -56,6 +55,7 @@ unsloth/Qwen2.5-1.5B
 unsloth/Qwen2.5-1.5B-Instruct
 unsloth/Qwen2.5-14B
 unsloth/Qwen2.5-14B-Instruct
+unsloth/Qwen2.5-3B-Instruct
 unsloth/Qwen2.5-Coder-1.5B-Instruct
 unsloth/Qwen2.5-Coder-7B
 unsloth/Qwen2.5-Coder-7B-Instruct
@@ -84,4 +84,3 @@ unsloth/zephyr-sft
 upstage/SOLAR-10.7B-Instruct-v1.0
 Vikhrmodels/Vikhr-7B-instruct_0.4
 Xenova/tiny-random-Phi3ForCausalLM
-unsloth/Qwen2.5-3B-Instruct
