@@ -84,3 +84,4 @@ unsloth/zephyr-sft
 upstage/SOLAR-10.7B-Instruct-v1.0
 Vikhrmodels/Vikhr-7B-instruct_0.4
 Xenova/tiny-random-Phi3ForCausalLM
+unsloth/Qwen2.5-3B-Instruct
