@@ -14,6 +14,7 @@ JackFram/llama-68m
 jingyeom/seal3.1.6n_7b
 NousResearch/Hermes-2-Pro-Mistral-7B
 NousResearch/Nous-Capybara-7B-V1.9
+NousResearch/Nous-Hermes-2-Mistral-7B-DPO
 NousResearch/Nous-Hermes-2-SOLAR-10.7B
 NousResearch/Nous-Hermes-llama-2-7b
 NousResearch/Yarn-Solar-10b-32k
@@ -54,12 +55,14 @@ unsloth/Qwen2.5-1.5B
 unsloth/Qwen2.5-1.5B-Instruct
 unsloth/Qwen2.5-14B
 unsloth/Qwen2.5-14B-Instruct
+unsloth/Qwen2.5-Coder-1.5B-Instruct
 unsloth/Qwen2.5-Coder-7B
 unsloth/Qwen2.5-Coder-7B-Instruct
 unsloth/Qwen2.5-Math-1.5B
 unsloth/Qwen2.5-Math-1.5B-Instruct
 unsloth/Qwen2.5-Math-7B-Instruct
 unsloth/Qwen2-0.5B
+unsloth/Qwen2-0.5B-Instruct
 unsloth/Qwen2-1.5B
 unsloth/Qwen2-1.5B-Instruct
 unsloth/Qwen2-7B
