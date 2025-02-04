@@ -1,2 +1,1 @@
 katuni4ka/tiny-random-codegen2
-tiiuae/falcon-mamba-7b
